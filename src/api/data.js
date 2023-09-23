@@ -1,40 +1,40 @@
 export const iconData = [
   {
-    icon: "/src/assets/images/Vector 1 (1).png",
+    icon: "/images/Vector 1 (1).png",
     title: "Create Project",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish",
   },
   {
-    icon: "/src/assets/images/Group 1.png",
+    icon: "/images/Group 1.png",
     title: "Making Plan",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish",
   },
   {
-    icon: "/src/assets/images/Group 2.png",
+    icon: "/images/Group 2.png",
     title: "Custom Task Views",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish",
   },
   {
-    icon: "/src/assets/images/Group 3.png",
+    icon: "/images/Group 3.png",
     title: "One Click Install",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish ",
   },
 ];
 export const featureData = [
   {
-    icon: "/src/assets/images/Group 14.png",
+    icon: "/images/Group 14.png",
     title: "Making Plan",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish",
     col: "#FEEDF5"
   },
   {
-    icon: "/src/assets/images/Group 15.png",
+    icon: "/images/Group 15.png",
     title: "Custom Task Views",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish",
     col : "#D4F8F8"
   },
   {
-    icon: "/src/assets/images/Group 16.png",
+    icon: "/images/Group 16.png",
     title: "One Click Install",
     text: "Lorem ipsum dolor sit amet consectetur adipiscing elit wish ",
     col : "#FFF3DD"
@@ -42,21 +42,21 @@ export const featureData = [
 ];
 export const reviewData = [
   {
-    avatar: "/src/assets/images/ww (1).jpg",
+    avatar: "/images/ww (1).jpg",
     name: "John Doe",
     post: "SDK at Google",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium deserunt",
   },
   {
-    avatar: "/src/assets/images/ww (1).jpeg",
+    avatar: "/images/ww (1).jpeg",
     name: "Nitesh Suthar",
     post: "Full Stack Web & App",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium deserunt",
   },
   {
-    avatar: "/src/assets/images/ww (2).jpeg",
+    avatar: "/images/ww (2).jpeg",
     name: "Dr. RDJ",
     post: "Actor",
     review:

@@ -1,5 +1,7 @@
 import React from "react";
 import { iconData } from "../../api/data.js";
+
+
 const HowItWorksIcons = () => {
   return iconData?.map((data) => (
     <div key={data.title} className="p-4 flex-col justify-center items-center">
